@@ -253,6 +253,15 @@ footer {
     color: #c78b07;
 }
 
+/* TABLET STYLES: 760px to 1199px */
+@media screen and (min-width: 760px) {
+
+    .container {
+        width: 706px;
+        margin: 0 auto;
+    }
+    /* NOTHING ELSE! */ 
+}
 
 /*======================
         Desktop STYLES 
